@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "571412288460",
+    "firebase_url": "https://becomeayoutuber.firebaseio.com",
+    "project_id": "becomeayoutuber",
+    "storage_bucket": "becomeayoutuber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571412288460:android:371460f75c617663",
+        "android_client_info": {
+          "package_name": "easygame1.becomeayoutuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571412288460-2etsdj3t7rob3dvo0gc6urevjuka206e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "easygame1.becomeayoutuber",
+            "certificate_hash": "61543f6c8f140ebdc444c721ea87fe7daef91c1e"
+          }
+        },
+        {
+          "client_id": "571412288460-pqu1j6np1qfq8u9hbm3h5b3bot49cqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHxD9C6wz5kblwXOlP2q8QaWPkoM0fZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571412288460-pqu1j6np1qfq8u9hbm3h5b3bot49cqa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
